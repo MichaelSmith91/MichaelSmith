@@ -1,0 +1,7 @@
+echo“#MichaelSmith”>>README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git分支-M主
+git远程添加原点https://github.com/MichaelSmith91/MichaelSmith.git
+ git主要成分
